@@ -2,7 +2,7 @@
 <h3 align="center">Başkent Üniversitesi - Bilgisayar Programcılığı 🎓</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profil%20Ziyaretçileri&color=0e75b6&style=flat" alt="murat karakoca" />
+  <img src="https://komarev.com/ghpvc/?username=xMuratz&label=Profil%20Ziyaretçileri&color=0e75b6&style=flat"/>
 </p>
 
 ---
