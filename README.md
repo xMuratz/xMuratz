@@ -39,8 +39,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Murat+KARAKOCA!+%F0%9F%91%8B;Computer+Programming+Student+at+Ba%C5%9Fkent+University+%F0%9F%8E%93;Aspiring+Backend+Developer+%F0%9F%9A%80;I+love+writing+clean+code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 <hr>
-<p align="center">
   <h1 align="center">↓ FOR CONTACT ↓</h1>
+
+<p align="center">
   <a href="mailto:muratkarakoca05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
