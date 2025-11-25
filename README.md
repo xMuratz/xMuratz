@@ -40,6 +40,7 @@
 </p>
 <hr>
 <p align="center">
+  <p>↓ for contact ↓</p>
   <a href="mailto:muratkarakoca05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
