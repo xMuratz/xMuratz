@@ -49,6 +49,6 @@
 
 <hr>
 
-<p align="center" text-color=red>
+<p align="center" text-color="red">
   <i><b>Catch</b>  Me If You Can.</i>
 </p>
