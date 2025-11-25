@@ -15,7 +15,12 @@
 - ⚡ **Hobilerim:** Kod yazmak, teknoloji bloglarını takip etmek ve oyun oynamak.
 
 <hr>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" />
+</div>
+<hr>
 ### 🛠️ Yeteneklerim & Araçlar
 
 <p align="left">
