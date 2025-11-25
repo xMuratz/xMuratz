@@ -54,7 +54,10 @@
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=xMuratz&theme=flat&no-frame=true&margin-w=15" />
 </p>
-
+<hr>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+</p>
 <hr>
 
 <p align="center">
