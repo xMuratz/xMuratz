@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xMuratz&label=Profil%20Ziyaretçileri&color=0e75b6&style=flat"/>
 </p>
 
----
+<hr>
 
 ### 🚀 Hakkımda
 
@@ -14,7 +14,7 @@
 - 🌱 Şu anda kendimi Web Teknolojileri ve Backend üzerine geliştiriyorum.
 - ⚡ **Hobilerim:** Kod yazmak, teknoloji bloglarını takip etmek ve oyun oynamak.
 
----
+<hr>
 
 ### 🛠️ Yeteneklerim & Araçlar
 
@@ -28,26 +28,26 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xMuratz&show_icons=true&theme=radical" alt="github stats" />
 </p>
----
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMuratz&layout=compact&theme=radical" alt="top languages" />
 </p>
----
+<hr>
 <p align="center">
   <a href="mailto:muratkarakoca05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
----
+<hr>
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=xMuratz&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
----
+<hr>
 
 <p align="center">
   <i><b>Catch</b>  Me If You Can.</i>
