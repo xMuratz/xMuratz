@@ -17,8 +17,14 @@
 <hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/html-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/css3-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javascript-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/git-original.svg" height="40" width="40" />
+  
+  
 </div>
 <hr>
 ### 🛠️ Yeteneklerim & Araçlar
