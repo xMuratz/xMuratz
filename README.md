@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <i>Bu profil <b>Catch</b>  Me If You Can.</i>
+  <i><b>Catch</b>  Me If You Can.</i>
 </p>
