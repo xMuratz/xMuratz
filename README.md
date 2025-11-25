@@ -44,7 +44,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=KULLANICI_ADIN&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophies.vercel.app/?username=xMuratz&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
 ---
