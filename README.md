@@ -54,14 +54,6 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi! I'm Muratz %F0%9F%8E%93;Backend+Developer+Aday%C4%B1y%C4%B1m+%F0%9F%9A%80;Kodlamay%C4%B1+Seviyorum+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xMuratz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<hr>
-<p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=xMuratz&theme=flat&no-frame=true&margin-w=15" />
 </p>
 <hr>
