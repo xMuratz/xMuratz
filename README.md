@@ -40,14 +40,6 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xMuratz&show_icons=true&theme=radical"/>
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMuratz&layout=compact&theme=radical"/>
-</p>
-<hr>
-<p align="center">
   <a href="mailto:muratkarakoca05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
